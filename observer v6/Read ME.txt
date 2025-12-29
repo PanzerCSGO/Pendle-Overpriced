@@ -1,0 +1,8 @@
+Pendle_snapshot_collector.py +  live_runner.py = datankeruu
+cd "C:\Users\aleks\Desktop\CLASSIFIED\observer v2"
+python collector\Pendle_snapshot_collector.py
+
+
+cd "C:\Users\aleks\Desktop\CLASSIFIED\observer v2"
+python live_runner.py
+
